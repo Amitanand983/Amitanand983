@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Amit Anand</h1>
 <h3 align="center">A passionate frontend developer and Data Science Enthusiast</h3>
-<img align="right" alt="coding" width="100" height="100" src="https://www.digitalclic.cl/wp-content/uploads/2020/06/Programming.gif">
+<img align="right" alt="coding" width="400" src="https://www.digitalclic.cl/wp-content/uploads/2020/06/Programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitanand983&label=Profile%20views&color=0e75b6&style=flat" alt="amitanand983" /> </p>
 
