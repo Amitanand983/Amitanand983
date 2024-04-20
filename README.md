@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxU6xw1SVPouqKwR5m1qb7A1A9zW7N6RfOdr31lrCotbyJrdIXRf_eu8KvF_ZAOyxPK7I&usqp=CAU" height="300rem"/>
+    <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxU6xw1SVPouqKwR5m1qb7A1A9zW7N6RfOdr31lrCotbyJrdIXRf_eu8KvF_ZAOyxPK7I&usqp=CAU](https://cdn6.f-cdn.com/contestentries/1521116/32792591/5d08adfa030df_thumb900.jpg)" height="300rem"/>
 </p>
 <h1 align="center">Hi 👋, I'm Amit Anand</h1>
 <h3 align="center">Into frontend developement, Machine Learning and Passionately Designer</h3>
