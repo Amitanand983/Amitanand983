@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="[[https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966](https://static.vecteezy.com/system/resources/previews/012/720/076/non_2x/remote-work-social-media-banner-freelancer-working-distant-on-pc-from-home-linkedin-cover-self-employed-occupation-header-cartoon-flat-illustration-vector.jpg)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Flinkedin-cover&psig=AOvVaw3kOEG_QL4Lpm942UXqeXtE&ust=1713730818087000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDXpYLP0YUDFQAAAAAdAAAAABAE)" height="300rem"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxU6xw1SVPouqKwR5m1qb7A1A9zW7N6RfOdr31lrCotbyJrdIXRf_eu8KvF_ZAOyxPK7I&usqp=CAU" height="300rem"/>
 </p>
 <h1 align="center">Hi 👋, I'm Amit Anand</h1>
 <h3 align="center">Into frontend developement, Machine Learning and Passionately Designer</h3>
