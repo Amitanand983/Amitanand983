@@ -2,7 +2,7 @@
     <img src="https://cdn6.f-cdn.com/contestentries/1521116/32792591/5d08adfa030df_thumb900.jpg" height="300rem"/>
 </p>
 <h1 align="center">Hi 👋, I'm Amit Anand</h1>
-<h3 align="center">Into frontend developement, Machine Learning and Passionately Designer</h3>
+<h3 align="center">Into Generative AI, Machine Learning and Passionately Designer</h3>
 <!img align="right" alt="coding" width="400" src="https://www.digitalclic.cl/wp-content/uploads/2020/06/Programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitanand983&label=Profile%20views&color=0e75b6&style=flat" alt="amitanand983" /> </p>
