@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://cdn6.f-cdn.com/contestentries/1521116/32792591/5d08adfa030df_thumb900.jpg" height="300rem"/>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fphoto%2F13870564-artificial-intelligence-panoramic-background-for-your-business-project-ai-technology-2020&psig=AOvVaw0TWYuor5eUaFkIqqBTUJmi&ust=1750829763603000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCQgKWriY4DFQAAAAAdAAAAABAX" height="300rem"/>
 </p>
 <h1 align="center">Hi 👋, I'm Amit Anand</h1>
 <h3 align="center">Into Generative AI, Machine Learning and Passionately Designer</h3>
