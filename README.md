@@ -1,6 +1,6 @@
 <p align='center'>
 <!--     <img src="https://i.pinimg.com/originals/c8/67/3a/c8673ad4c46ade00cf3bd0049db62b16.jpg" height="300rem"/> -->
-    <img src="https://i.pinimg.com/originals/c8/67/3a/c8673ad4c46ade00cf3bd0049db62b16.jpg" height="300rem"/>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.besthdwallpaper.com%2Fnature-most-downloaded-wallpapers-ct_en-US-8&psig=AOvVaw3zx5NHbLN2PxWpRKY8iJx_&ust=1750919961758000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjGy6X7i44DFQAAAAAdAAAAABBr" height="300rem"/>
 </p>
 <h1 align="center">Hi 👋, I'm Amit Anand</h1>
 <h3 align="center">Into Generative AI, Machine Learning and Passionately Designer</h3>
