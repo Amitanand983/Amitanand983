@@ -1,33 +1,127 @@
-<p align='center'>
-<!--     <img src="https://i.pinimg.com/originals/c8/67/3a/c8673ad4c46ade00cf3bd0049db62b16.jpg" height="300rem"/> -->
-    <img src="https://cdn.bhdw.net/im/sunrise-nature-art-wallpaper-81335_w635.webp" height="300rem"/>
-</p>
-<h1 align="center">Hi 👋, I'm Amit Anand</h1>
-<h3 align="center">Into Generative AI, Machine Learning and Passionately Designer</h3>
-<!img align="right" alt="coding" width="400" src="https://www.digitalclic.cl/wp-content/uploads/2020/06/Programming.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitanand983&label=Profile%20views&color=0e75b6&style=flat" alt="amitanand983" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitanand983" alt="amitanand983" /></a> </p>
-
-- 🌱 Hi 👋, I'm Amit Anand, a dedicated frontend developer on a journey of continuous learning. Currently, I am delving into the realms of both Frontend Web Development and Machine Learning.
-
-- 📫 How to reach me **amitanand983@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/amit-anand-0015b2145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amit-anand-0015b2145" height="30" width="40" /></a>
-<a href="https://kaggle.com/amitanand03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amitanand03" height="30" width="40" /></a>
-<a href="https://instagram.com/_devil43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_devil43" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/amitanand03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amitanand03" height="30" width="40" /></a>
+<!-- Glitchy Hero Banner (SVG Animation) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ritik307/ritik307/main/images/banner.gif" width="80%"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<!-- 3D Wave Animation Background (CodePen SVG Embed) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aakarsh-B/animated-svg-icons/master/svgs/wave.svg" width="100%"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitanand983&show_icons=true&locale=en&layout=compact" alt="amitanand983" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Amit+Anand;Full-Stack+Gen+AI+Engineer+%7C+Multimodal+AI+Researcher+%7C+Automation+Nerd" alt="Typing SVG" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitanand983&show_icons=true&locale=en" alt="amitanand983" /></p>
+<h3 align="center">LLMs · Autonomous Agents · Full Stack Dev · MLOps · OSS Evangelist</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitanand983&" alt="amitanand983" /></p>
+<p align="center">
+  <a href="mailto:amitanand983@gmail.com"><img src="https://img.shields.io/badge/email-amitanand983@gmail.com-blue?style=flat&logo=gmail"></a>
+  <a href="https://in.linkedin.com/in/amit-anand-0015b2145"><img src="https://img.shields.io/badge/LinkedIn-Amit%20Anand-blue?style=flat&logo=linkedin"></a>
+  <a href="https://github.com/Amitanand983"><img src="https://img.shields.io/github/followers/amitanand983?label=Follow&style=social"></a>
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation"/>
+</p>
+
+---
+
+## 🔮 `about.yaml`
+
+```yaml
+name: Amit Anand
+focus: GenAI, Multimodal AI, Full Stack, Open Source
+location: RGIPT 🇮🇳
+published:
+  - BodyNets '24: UWB Sleep Posture (🏆 Best Paper)
+  - IEEE Network '25: KD AIoT Gesture Sensing
+roles:
+  - Tech Intern @ Siemens (Smart Infra)
+  - Web Lead @ SCHEMCON '24 (20k+ visitors)
+  - Top 200 @ Amazon ML Challenge (Text-from-Image)
+tools:
+  - LangChain, OpenAI, HuggingFace, PyTorch
+  - React, Next.js, FastAPI, Docker, RAG, Vercel
+```
+
+---
+
+## 🚀 Projects I’ve Engineered
+
+### 🤖 `summAI` — Multimodal Summarizer & QnA (OpenAI + Whisper + LangChain)
+```bash
+# 🔁 Handles PDFs, audio, scanned docs
+# 🧠 Uses RAG, FAISS, GPT-4
+# 🐳 Docker-ready + CLI interface
+```
+
+### 🏛 `Govt-Schemes-RAG` — Chatbot for Indian Schemes
+```bash
+# 🎯 Built with Sentence Transformers + SLMs
+# 🌐 Bilingual QnA (English/Hindi)
+# ☁️ Hosted on Streamlit Cloud
+```
+
+### 🔋 `GreenCodeProfiler` — Energy Usage Advisor
+```bash
+# 🔎 RAPL-backed analyzer via pyrapl
+# 📊 Tracks power use per Python func
+# 📈 Visualize via Streamlit dashboard
+```
+
+---
+
+## 🧰 Full Stack Arsenal
+
+```ts
+frontend: React | Next.js | Tailwind | Chart.js
+backend: FastAPI | Flask | Node.js | LangChain
+ml: PyTorch | TensorFlow | HuggingFace | RAG
+infra: Docker | GitHub Actions | Vercel | Render
+extras: VS Code | Figma | Draw.io | Overleaf
+```
+
+---
+
+## 📈 GitHub Intelligence
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amitanand983&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitanand983&theme=radical" width="48%" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitanand983&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitanand983&theme=radical" width="95%" />
+</p>
+
+---
+
+## 🧠 Highlights
+
+| Year | Highlight |
+|------|----------|
+| 2024 | 🏆 Best Paper – BodyNets |
+| 2024 | 🥈 Top 200 – Amazon ML Challenge |
+| 2025 | 📄 IEEE Network Publication (AIoT) |
+| 2024 | 🚀 Intern @ Siemens, SCHEMCON SEO Dev |
+
+---
+
+## 🤝 Let’s Collaborate
+
+> Open to research, startup collabs, OSS, or agentic toolbuilding
+
+- 📬 [amitanand983@gmail.com](mailto:amitanand983@gmail.com)
+- 🌐 [LinkedIn](https://in.linkedin.com/in/amit-anand-0015b2145)
+- 🧠 [GitHub](https://github.com/Amitanand983)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Autonomous+AI+Agents...;LangChain+Pipelines...;OSS+Infra+for+Impactful+AI..." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
+  <b>✨ Let’s code the future. ✨</b>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
+</p>
