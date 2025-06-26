@@ -13,13 +13,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Amit+Anand;Full-Stack+Gen+AI+Engineer+%7C+Researcher" alt="Typing SVG" style="max-width: 100%; height: auto;"/>
 </p>
 
-<h3 align="center">LLMs · Autonomous Agents · Full Stack Dev · MLOps · OSS Evangelist</h3>
-
-<p align="center">
-  <a href="mailto:amitanand983@gmail.com"><img src="https://img.shields.io/badge/email-amitanand983@gmail.com-blue?style=flat&logo=gmail"></a>
-  <a href="https://in.linkedin.com/in/amit-anand-0015b2145"><img src="https://img.shields.io/badge/LinkedIn-Amit%20Anand-blue?style=flat&logo=linkedin"></a>
-  <a href="https://github.com/Amitanand983"><img src="https://img.shields.io/github/followers/amitanand983?label=Follow&style=social"></a>
-</p>
+<h3 align="center">LLMs · Autonomous Agents · Full Stack Dev · MLOps </h3>
 
 <!-- Developer GIF -->
 <p align="center">
@@ -47,17 +41,16 @@
 ```yaml
 name: Amit Anand
 focus: GenAI, Multimodal AI, Full Stack, Open Source
-location: RGIPT 🇮🇳
+location: Bangalore, 🇮🇳
 published:
   - BodyNets '24: UWB Sleep Posture (🏆 Best Paper)
   - IEEE Network '25: KD AIoT Gesture Sensing
 roles:
-  - Tech Intern @ Siemens (Smart Infra)
+  - Tech Intern @ Siemens 
   - Web Lead @ SCHEMCON '24 (20k+ visitors)
-  - Top 200 @ Amazon ML Challenge (Text-from-Image)
 tools:
   - LangChain, OpenAI, HuggingFace, PyTorch
-  - React, Next.js, FastAPI, Docker, RAG, Vercel
+  - FLask, FastAPI, Docker, RAG, Hostinger, Overleaf
 ```
 
 ---
@@ -71,10 +64,10 @@ tools:
 
 | Year | Highlight |
 |------|----------|
-| 2024 | 🏆 Best Paper – BodyNets |
+| 2024 | 🏆 Best Paper – BodyNets, SCHEMCON SEO Dev |
 | 2024 | 🥈 Top 200 – Amazon ML Challenge |
 | 2025 | 📄 IEEE Network Publication (AIoT) |
-| 2024 | 🚀 Intern @ Siemens, SCHEMCON SEO Dev |
+| 2025 | 🚀 Intern @ Siemens |
 
 ---
 
