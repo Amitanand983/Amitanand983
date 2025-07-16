@@ -15,6 +15,10 @@
 
 <h3 align="center">LLMs · Autonomous Agents · Full Stack Dev · MLOps </h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amitanand983&color=blueviolet&style=flat-square&since=1010" alt="Profile Visitor Count" />
+</p>
+
 <!-- Developer GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; height: auto;" alt="Coding Animation"/>
