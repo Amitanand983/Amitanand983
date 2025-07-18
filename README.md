@@ -1,4 +1,4 @@
-<!-- Glitchy Hero Banner (Fallback to GIF if SVG fails) -->
+<!-- Glitchy Hero Banner (Fallback to GIF if SVG fails)  -->
 <p align="center">
   <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" style="max-width: 100%; height: auto;" alt="Hero Banner"/>
 </p>
