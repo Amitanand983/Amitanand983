@@ -4,9 +4,9 @@
 </p>
 
 <!-- Animated Wave Background (fallback with animated GIF) -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Amitanand983/assets/main/animated_wave_fallback.gif" style="max-width: 100%; height: auto;" alt="Wave Animation Fallback"/>
-</p>
+</p> -->
 
 <!-- Particle Typing Animation -->
 <p align="center">
@@ -24,11 +24,11 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; height: auto;" alt="Coding Animation"/>
 </p>
 
-<!-- Animated Waving Hand and Rocket -->
+<!-- Animated Waving Hand and Rocket 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assets/rocket.gif" width="50"/>
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assets/hi.gif" width="40"/>
-</p>
+</p> -->
 
 ---
 
@@ -86,7 +86,7 @@ achievements:
 
 ## 🤝 Let’s Collaborate
 
-> Open to research, startup collabs, OSS, or agentic toolbuilding
+> Open to research, startup collabs, OSS, or agentic tool building
 
 - 📬 [amitanand983@gmail.com](mailto:amitanand983@gmail.com)
 
