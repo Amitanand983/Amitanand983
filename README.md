@@ -108,15 +108,33 @@ achievements:
 
 ---
 
+<!-- Responsive Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Autonomous+AI+Agents...;LangChain+Pipelines...;OSS+Infra+for+Impactful+AI..." alt="Typing SVG" style="max-width: 100%; height: auto;"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Autonomous+AI+Agents...;LangChain+Pipelines...;OSS+Infra+for+Impactful+AI..." 
+       alt="Typing SVG" 
+       style="max-width: min(700px, 90vw); height: auto;"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
-  <b>✨ Let’s code the future. ✨</b>
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
-</p>
+<!-- Responsive Future Section -->
+<div align="center">
+  <table style="border: none; border-collapse: collapse;">
+    <tr>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" 
+             width="150" 
+             style="max-width: 100%; height: auto; min-width: 80px;"/>
+      </td>
+      <td align="center" style="border: none; padding: 20px;">
+        <b style="font-size: clamp(16px, 4vw, 24px);">✨ Let's code the future. ✨</b>
+      </td>
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" 
+             width="180" 
+             style="max-width: 100%; height: auto; min-width: 80px;"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- ## 🎯 Featured Projects
 
@@ -127,4 +145,3 @@ achievements:
 | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Amitanand983&repo=sleep-posture-uwb&theme=radical)](https://github.com/Amitanand983/sleep-posture-uwb) | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Amitanand983&repo=schemcon-website&theme=radical)](https://github.com/Amitanand983/schemcon-website) | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Amitanand983&repo=mobile-project&theme=radical)](https://github.com/Amitanand983/mobile-project) |
 
 </div> -->
-
