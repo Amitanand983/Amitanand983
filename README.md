@@ -3,9 +3,14 @@
   <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" style="max-width: 100%; height: auto;" alt="Hero Banner"/>
 </p>
 
-<!-- Animated Wave Background (fallback with animated GIF) -->
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/Amitanand983/assets/main/animated_wave_fallback.gif" style="max-width: 100%; height: auto;" alt="Wave Animation Fallback"/>
+<!-- Animated Wave Separator -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Wamos%20&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" style="max-width: 100%; height: auto;"/>
+</p>
+
+<!-- Bottom Wave
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=fadeIn" style="max-width: 100%; height: auto;"/>
 </p> -->
 
 <!-- Particle Typing Animation -->
@@ -69,17 +74,34 @@ achievements:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amitanand983&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 100%; height: auto;"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amitanand983&theme=radical" alt="GitHub Streak" style="max-width: 100%; height: auto;"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitanand983&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%; height: auto;"/>
-</p>
+<!-- 3D Stats Layout -->
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Amitanand983&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff" style="max-width: 100%; height: auto;"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amitanand983&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" style="max-width: 100%; height: auto;"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <!-- Snake Animation Replacement with GitHub Trophy -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Amitanand983&theme=radical&no-frame=true&margin-w=10&column=7" style="max-width: 100%; height: auto;"/>
+</p>
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitanand983&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" style="max-width: 100%; height: auto;"/>
 </p>
 
 ---
@@ -89,6 +111,11 @@ achievements:
 > Open to research, startup collabs, OSS, or agentic tool building
 
 - 📬 [amitanand983@gmail.com](mailto:amitanand983@gmail.com)
+
+<!-- Random Dev Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="max-width: 100%; height: auto;"/>
+</p>
 
 ---
 
@@ -101,3 +128,14 @@ achievements:
   <b>✨ Let’s code the future. ✨</b>
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
 </p>
+
+<!-- ## 🎯 Featured Projects
+
+<div align="center">
+  
+| 🤖 AI/ML Projects | 🌐 Full Stack | 📱 Mobile |
+|:---:|:---:|:---:|
+| [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Amitanand983&repo=sleep-posture-uwb&theme=radical)](https://github.com/Amitanand983/sleep-posture-uwb) | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Amitanand983&repo=schemcon-website&theme=radical)](https://github.com/Amitanand983/schemcon-website) | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Amitanand983&repo=mobile-project&theme=radical)](https://github.com/Amitanand983/mobile-project) |
+
+</div> -->
+
