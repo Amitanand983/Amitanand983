@@ -5,7 +5,7 @@
 
 <!-- Animated Wave Separator -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Wamos%20&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" style="max-width: 100%; height: auto;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Wamos%20&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" style="max-width: 485; height: auto;"/>
 </p>
 
 <!-- Bottom Wave
