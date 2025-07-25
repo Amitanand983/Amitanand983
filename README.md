@@ -29,12 +29,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; height: auto;" alt="Coding Animation"/>
 </p>
 
-<!-- Animated Waving Hand and Rocket 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assets/rocket.gif" width="50"/>
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assets/hi.gif" width="40"/>
-</p> -->
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -66,11 +60,6 @@ achievements:
 ```
 
 ---
-
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229037195-7b553f9f-3060-4de4-9c84-1ebac11ea6be.gif" style="max-width: 80%; height: auto;"/>
-</p>
 
 ## 📊 GitHub Stats
 
