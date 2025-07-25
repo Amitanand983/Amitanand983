@@ -44,7 +44,7 @@
 
 ```yaml
 name: Amit Anand
-focus: GenAI, Multimodal AI, Full Stack, Open Source
+focus: GenAI, Core ML/DL, Full Stack, Open Source
 location: Bangalore, 🇮🇳
 published:
   - BodyNets '24: UWB Sleep Posture (🏆 Best Paper)
@@ -55,6 +55,9 @@ roles:
 tools:
   - LangChain, OpenAI, HuggingFace, PyTorch
   - Flask, FastAPI, Docker, RAG, Hostinger, Overleaf
+achievements:
+  - Winner, Aavishkar Hackathon 2025, Siemens
+  - 137/75k+, Amazon Ml Challenge, 2024
 ```
 
 ---
