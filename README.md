@@ -34,7 +34,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,fastapi,flask,docker,git,github,vscode,figma,js,ts,react,nextjs,vercel,tailwind,linux,sqlite,mysql&perline=10" style="max-width: 100%; height: auto;"/>
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,fastapi,overleaf,flask,docker,git,github,vscode,figma,js,ts,react,vercel,linux,sqlite,mysql&perline=10" style="max-width: 100%; height: auto;"/>
 </p>
 
 ---
