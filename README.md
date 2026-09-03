@@ -49,14 +49,14 @@ published:
   - BodyNets '24: UWB Sleep Posture (🏆 Best Paper)
   - IEEE Network '25: KD AIoT Gesture Sensing
 roles:
+  - AI Engineer & Building Whitehuts
   - Tech Intern @ Siemens 
   - Web Lead @ SCHEMCON '24 (20k+ visitors)
 tools:
   - LangChain, OpenAI, HuggingFace, PyTorch
   - Flask, FastAPI, Docker, RAG, Hostinger, Overleaf
 achievements:
-  - Winner, Aavishkar Hackathon 2025, Siemens
-  - 137/75k+, Amazon Ml Challenge, 2024
+  - Winner, Aavishkar Hackathon 2025 & 2026, Siemens
 ```
 
 ---
