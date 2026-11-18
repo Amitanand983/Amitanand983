@@ -30,9 +30,12 @@ I look for problems existing AI tools leave unsolved, try new models and tools a
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,fastapi,docker,flask,git,github,gitlab,vscode,figma,js,ts,react,vercel,linux,sqlite,mysql&perline=10" style="max-width: 100%; height: auto;"/>
-</p>
+- **Models & inference** · OpenAI, Anthropic Claude, Google Gemini, DeepSeek, Groq, Hugging Face
+- **AI engineering** · PyTorch, TensorFlow, Transformers, LangChain, LangGraph, MCP, RAG, embeddings, agent tool calling, structured outputs, and evaluation
+- **Developer tools** · Codex, Claude Code, Cursor, GitHub Copilot, Git, GitHub, GitLab
+- **Product engineering** · Python, TypeScript, JavaScript, Next.js, React, FastAPI, Flask
+- **Databases & retrieval** · PostgreSQL, Supabase, pgvector, Prisma, Redis / Upstash, MySQL, SQLite
+- **Deployment & scaling** · Docker, Vercel, Render, GitHub Actions, Linux, background workers, connection pooling, and caching
 
 ---
 
@@ -40,21 +43,23 @@ I look for problems existing AI tools leave unsolved, try new models and tools a
 
 ```yaml
 name: Amit Anand
-focus: GenAI, Core ML/DL, Full Stack, Open Source
-location: Bangalore, 🇮🇳
-roles:
-  - Tech Intern @ Siemens
-  - Web Lead @ SCHEMCON '24 (20k+ visitors)
-tools:
-  - LangChain, OpenAI, HuggingFace, PyTorch
-  - Flask, FastAPI, Docker, RAG, Hostinger, Overleaf
+location: Bangalore, India
+focus:
+  - Full-stack AI products and agent systems
+  - Applied machine learning research
+  - Experiments with new models, tools, and open-source releases
+current_work:
+  studio: WhiteHuts
+  product: NewsAI
+  exploring: Practical gaps in existing AI tools
+experience:
+  - Tech Intern at Siemens
+  - Web Lead at SCHEMCON 2024 (20k+ visitors)
 ```
 
 ---
 
 ## 📊 GitHub Stats
-
-See my activity in the native contribution graph on [my GitHub profile](https://github.com/Amitanand983).
 
 <div align="center">
   <table>
@@ -70,7 +75,7 @@ See my activity in the native contribution graph on [my GitHub profile](https://
 </div>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitanand983&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" style="max-width: 100%; height: auto;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitanand983&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=21600" alt="Most used languages in public GitHub repositories" style="max-width: 100%; height: auto;"/>
 </p>
 
 ---
