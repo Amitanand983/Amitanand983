@@ -54,31 +54,7 @@ tools:
 
 ## 📊 GitHub Stats
 
-<!-- 3D Stats Layout -->
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Amitanand983&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff" style="max-width: 100%; height: auto;"/>
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amitanand983&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" style="max-width: 100%; height: auto;"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Snake Animation Replacement with GitHub Trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amitanand983&theme=radical&no-frame=true&margin-w=10&column=7" style="max-width: 100%; height: auto;"/>
-</p>
-
+See my activity in the native contribution graph on [my GitHub profile](https://github.com/Amitanand983).
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitanand983&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" style="max-width: 100%; height: auto;"/>
