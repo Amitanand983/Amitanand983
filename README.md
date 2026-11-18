@@ -2,7 +2,9 @@
 
 I’m an AI engineer and researcher building [WhiteHuts](https://whitehuts.com/). My work spans full-stack AI products, multi-agent systems, and applied machine learning research.
 
-<img src="assets/profile-banner.gif" alt="" width="760" height="144" />
+<p align="center">
+  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" alt="" />
+</p>
 
 ## What I’m building
 
@@ -96,5 +98,7 @@ Open to research, startup, and open-source collaborations, including agentic too
 </p>
 
 <p align="center">
-  <img src="assets/profile-footer.gif" alt="" width="320" height="60" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" alt="" />
+  &nbsp;
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="180" alt="" />
 </p>
