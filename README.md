@@ -94,3 +94,7 @@ Open to research, startup, and open-source collaborations, including agentic too
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="max-width: 100%; height: auto;"/>
 </p>
+
+<p align="center">
+  <img src="assets/profile-footer.gif" alt="" width="320" height="56" />
+</p>
