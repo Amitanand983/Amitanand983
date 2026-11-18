@@ -1,14 +1,14 @@
 # Hi, I’m Amit Anand
 
-I’m an AI engineer and researcher building Whitehuts. My work spans full-stack AI products, multi-agent systems, and applied machine learning research.
+I’m an AI engineer and researcher building [WhiteHuts](https://whitehuts.com/). My work spans full-stack AI products, multi-agent systems, and applied machine learning research.
 
 <img src="assets/profile-banner.gif" alt="" width="760" height="96" />
 
 ## What I’m building
 
-- **Whitehuts** is my current focus.
-- [**UltronAI**](https://github.com/Amitanand983/UltronAI) coordinates specialized AI agents to complete tasks.
-- [**PRISM**](https://github.com/Amitanand983/prism) is a pull request intelligence project.
+At WhiteHuts, I’m building [NewsAI](https://newsai.whitehuts.com/), which turns AI news into short, source-linked briefings, alongside other AI products.
+
+I look for problems existing AI tools leave unsolved, try new models and tools as they’re released, and build experiments to see what works.
 
 ## Research and recognition
 
