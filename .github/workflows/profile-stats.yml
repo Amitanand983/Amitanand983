@@ -23,12 +23,13 @@ jobs:
         with:
           ref: ${{ github.event.repository.default_branch }}
 
-      - name: Generate public stats
-        uses: stats-organization/github-readme-stats-action@d82657a0e215a28ec48bfc9b3987999a279f93be # v1
-        with:
-          card: stats
-          options: "username=Amitanand983&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&custom_title=Public%20GitHub%20Stats"
-          path: assets/stats/stats.svg
+      - name: Fetch the public stats overview
+        run: |
+          refresh_key="$(date -u +%Y%m%d%H)"
+          curl --fail --silent --show-error --retry 3 --retry-all-errors \
+            --max-time 20 --retry-max-time 75 \
+            --output assets/stats/stats.svg \
+            "https://github-readme-stats.vercel.app/api?username=Amitanand983&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&custom_title=Public%20GitHub%20Stats&cache_seconds=21600&refresh=$refresh_key"
 
       - name: Generate contribution streak
         uses: DenverCoder1/github-readme-streak-stats@0402075fed53acead9f933c0a72bbf66b9846387
