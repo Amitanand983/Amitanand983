@@ -1,3 +1,21 @@
+# Hi, I’m Amit Anand
+
+I’m an AI engineer and researcher building Whitehuts. My work spans full-stack AI products, multi-agent systems, and applied machine learning research.
+
+## What I’m building
+
+- **Whitehuts** is my current focus.
+- [**UltronAI**](https://github.com/Amitanand983/UltronAI) coordinates specialized AI agents to complete tasks.
+- [**PRISM**](https://github.com/Amitanand983/prism) is a pull request intelligence project.
+
+## Research and recognition
+
+- **BodyNets 2024** · Best Paper award for research on ultra-wideband sleep posture sensing.
+- **IEEE Network 2025** · Research on gesture sensing for AIoT using knowledge distillation.
+- **Siemens Aavishkar Hackathon** · Winner in 2025 and 2026.
+
+---
+
 <!-- Glitchy Hero Banner (Fallback to GIF if SVG fails)  -->
 <p align="center">
   <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" style="max-width: 100%; height: auto;" alt="Hero Banner"/>
@@ -45,18 +63,12 @@
 name: Amit Anand
 focus: GenAI, Core ML/DL, Full Stack, Open Source
 location: Bangalore, 🇮🇳
-published:
-  - BodyNets '24: UWB Sleep Posture (🏆 Best Paper)
-  - IEEE Network '25: KD AIoT Gesture Sensing
 roles:
-  - AI Engineer & Building Whitehuts
-  - Tech Intern @ Siemens 
+  - Tech Intern @ Siemens
   - Web Lead @ SCHEMCON '24 (20k+ visitors)
 tools:
   - LangChain, OpenAI, HuggingFace, PyTorch
   - Flask, FastAPI, Docker, RAG, Hostinger, Overleaf
-achievements:
-  - Winner, Aavishkar Hackathon 2025 & 2026, Siemens
 ```
 
 ---
@@ -135,13 +147,3 @@ achievements:
     </tr>
   </table>
 </div>
-
-<!-- ## 🎯 Featured Projects
-
-<div align="center">
-  
-| 🤖 AI/ML Projects | 🌐 Full Stack | 📱 Mobile |
-|:---:|:---:|:---:|
-| [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Amitanand983&repo=sleep-posture-uwb&theme=radical)](https://github.com/Amitanand983/sleep-posture-uwb) | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Amitanand983&repo=schemcon-website&theme=radical)](https://github.com/Amitanand983/schemcon-website) | [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Amitanand983&repo=mobile-project&theme=radical)](https://github.com/Amitanand983/mobile-project) |
-
-</div> -->
