@@ -102,13 +102,6 @@ tools:
 
 ---
 
-<!-- Responsive Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Autonomous+AI+Agents...;LangChain+Pipelines...;OSS+Infra+for+Impactful+AI..." 
-       alt="Typing SVG" 
-       style="max-width: min(700px, 90vw); height: auto;"/>
-</p>
-
 <!-- Responsive Future Section -->
 <div align="center">
   <table style="border: none; border-collapse: collapse;">
