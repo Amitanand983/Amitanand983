@@ -1,0 +1,79 @@
+name: Refresh profile stats
+
+on:
+  schedule:
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out the profile
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Generate public stats
+        uses: stats-organization/github-readme-stats-action@d82657a0e215a28ec48bfc9b3987999a279f93be # v1
+        with:
+          card: stats
+          options: "username=Amitanand983&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&custom_title=Public%20GitHub%20Stats"
+          path: assets/stats/stats.svg
+
+      - name: Generate contribution streak
+        uses: DenverCoder1/github-readme-streak-stats@0402075fed53acead9f933c0a72bbf66b9846387
+        with:
+          options: "user=Amitanand983&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff"
+          path: assets/stats/streak.svg
+
+      - name: Generate top languages
+        uses: stats-organization/github-readme-stats-action@d82657a0e215a28ec48bfc9b3987999a279f93be # v1
+        with:
+          card: top-langs
+          options: "username=Amitanand983&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"
+          path: assets/stats/langs.svg
+
+      - name: Check that all cards contain data
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          from xml.etree import ElementTree
+
+          expected = {
+              "stats": ("Public GitHub Stats", "Total Commits"),
+              "streak": ("Total Contributions", "Longest Streak"),
+              "langs": ("Most Used Languages", "%"),
+          }
+          for card, labels in expected.items():
+              path = Path("assets/stats") / f"{card}.svg"
+              svg = ElementTree.parse(path).getroot()
+              visible_text = " ".join(" ".join(svg.itertext()).split())
+              if svg.tag != "{http://www.w3.org/2000/svg}svg" or not all(
+                  label in visible_text for label in labels
+              ):
+                  raise SystemExit(f"{path} is missing expected stats")
+          PY
+
+      - name: Publish validated cards
+        env:
+          PROFILE_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats/stats.svg assets/stats/streak.svg assets/stats/langs.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "Refresh profile stats"
+          git pull --rebase origin "$PROFILE_BRANCH"
+          git push origin "HEAD:refs/heads/$PROFILE_BRANCH"
