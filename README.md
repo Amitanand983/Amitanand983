@@ -91,34 +91,10 @@ tools:
 
 ## 🤝 Let’s Collaborate
 
-> Open to research, startup collabs, OSS, or agentic tool building
-
-- 📬 [amitanand983@gmail.com](mailto:amitanand983@gmail.com)
 
 <!-- Random Dev Quote -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="max-width: 100%; height: auto;"/>
 </p>
 
----
-
-<!-- Responsive Future Section -->
-<div align="center">
-  <table style="border: none; border-collapse: collapse;">
-    <tr>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" 
-             width="150" 
-             style="max-width: 100%; height: auto; min-width: 80px;"/>
-      </td>
-      <td align="center" style="border: none; padding: 20px;">
-        <b style="font-size: clamp(16px, 4vw, 24px);">✨ Let's code the future. ✨</b>
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" 
-             width="180" 
-             style="max-width: 100%; height: auto; min-width: 80px;"/>
-      </td>
-    </tr>
-  </table>
-</div>
+Open to research, startup, and open-source collaborations, including agentic tools. [Email me](mailto:amitanand983@gmail.com).
