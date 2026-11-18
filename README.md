@@ -2,6 +2,8 @@
 
 I’m an AI engineer and researcher building Whitehuts. My work spans full-stack AI products, multi-agent systems, and applied machine learning research.
 
+<img src="assets/profile-banner.gif" alt="" width="760" height="96" />
+
 ## What I’m building
 
 - **Whitehuts** is my current focus.
@@ -15,26 +17,6 @@ I’m an AI engineer and researcher building Whitehuts. My work spans full-stack
 - **Siemens Aavishkar Hackathon** · Winner in 2025 and 2026.
 
 ---
-
-<!-- Glitchy Hero Banner (Fallback to GIF if SVG fails)  -->
-<p align="center">
-  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" style="max-width: 100%; height: auto;" alt="Hero Banner"/>
-</p>
-
-<!-- Animated Wave Separator -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Wamos%20&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" style="max-width: 485; height: auto;"/>
-</p>
-
-<!-- Bottom Wave
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=fadeIn" style="max-width: 100%; height: auto;"/>
-</p> -->
-
-<!-- Particle Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Hi+%F0%9F%91%8B%2C+I'm+Amit+Anand;Full-Stack+Gen+AI+Engineer+%7C+Researcher" alt="Typing SVG" style="max-width: 100%; height: auto;"/>
-</p>
 
 <h3 align="center"> End to End Products · Autonomous Agentic Solutions · Research · Open Source </h3>
 
