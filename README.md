@@ -30,12 +30,13 @@ I look for problems existing AI tools leave unsolved, try new models and tools a
 
 ## 🛠️ Tech Stack & Tools
 
-- **Models & inference** · OpenAI, Anthropic Claude, Google Gemini, DeepSeek, Groq, Hugging Face
-- **AI engineering** · PyTorch, TensorFlow, Transformers, LangChain, LangGraph, MCP, RAG, embeddings, agent tool calling, structured outputs, and evaluation
-- **Developer tools** · Codex, Claude Code, Cursor, GitHub Copilot, Git, GitHub, GitLab
-- **Product engineering** · Python, TypeScript, JavaScript, Next.js, React, FastAPI, Flask
-- **Databases & retrieval** · PostgreSQL, Supabase, pgvector, Prisma, Redis / Upstash, MySQL, SQLite
-- **Deployment & scaling** · Docker, Vercel, Render, GitHub Actions, Linux, background workers, connection pooling, and caching
+<p align="center">
+  <img src="assets/ai-tool-logos.svg" width="428" alt="OpenAI, Claude, Gemini, DeepSeek, Groq, Hugging Face, LangChain, MCP, Codex, Cursor, GitHub Copilot" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,flask,js,ts,react,nextjs,nodejs,tailwind,pnpm,postgres,supabase,prisma,redis,mysql,sqlite,docker,vercel,githubactions,linux,git,github,gitlab,vscode,figma&amp;perline=9" alt="Python, PyTorch, TensorFlow, FastAPI, Flask, JavaScript, TypeScript, React, Next.js, Node.js, Tailwind CSS, pnpm, PostgreSQL, Supabase, Prisma, Redis, MySQL, SQLite, Docker, Vercel, GitHub Actions, Linux, Git, GitHub, GitLab, VS Code, Figma" />
+</p>
 
 ---
 
@@ -65,17 +66,17 @@ experience:
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Amitanand983&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=1f6feb&amp;text_color=c9d1d9&amp;ring_color=58a6ff&amp;custom_title=Public%20GitHub%20Stats&amp;cache_seconds=21600" alt="Public GitHub stats, including commits in the last year" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Amitanand983&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=1f6feb&amp;text_color=c9d1d9&amp;ring_color=58a6ff&amp;custom_title=Public%20GitHub%20Stats&amp;cache_seconds=21600&amp;refresh=20261118" alt="Public GitHub stats, including commits in the last year" />
       </td>
       <td width="50%">
-        <img src="https://streak-stats.demolab.com/?user=Amitanand983&amp;theme=radical&amp;hide_border=true&amp;background=0d1117&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=ff6b35&amp;currStreakLabel=58a6ff" alt="GitHub contribution totals and streaks" />
+        <img src="https://streak-stats.demolab.com/?user=Amitanand983&amp;theme=radical&amp;hide_border=true&amp;background=0d1117&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=ff6b35&amp;currStreakLabel=58a6ff&amp;refresh=20261118" alt="GitHub contribution totals and streaks" />
       </td>
     </tr>
   </table>
 </div>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitanand983&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=21600" alt="Most used languages in public GitHub repositories" style="max-width: 100%; height: auto;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitanand983&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;cache_seconds=21600&amp;refresh=20261118" alt="Most used languages in public GitHub repositories" style="max-width: 100%; height: auto;"/>
 </p>
 
 ---
