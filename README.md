@@ -24,11 +24,6 @@ I look for problems existing AI tools leave unsolved, try new models and tools a
   <img src="https://komarev.com/ghpvc/?username=Amitanand983&color=blueviolet&style=flat-square&since=1010" alt="Profile Visitor Count" />
 </p>
 
-<!-- Developer GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; height: auto;" alt="Coding Animation"/>
-</p>
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -91,10 +86,11 @@ tools:
 
 ## 🤝 Let’s Collaborate
 
+Open to research, startup, and open-source collaborations, including agentic tools.
+
+**[✉ amitanand983@gmail.com](mailto:amitanand983@gmail.com)**
 
 <!-- Random Dev Quote -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="max-width: 100%; height: auto;"/>
 </p>
-
-Open to research, startup, and open-source collaborations, including agentic tools. [Email me](mailto:amitanand983@gmail.com).
